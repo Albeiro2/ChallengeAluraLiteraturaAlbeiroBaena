@@ -13,8 +13,6 @@ Aplicación de consola en Java con Spring Boot para buscar libros desde una API 
 
     Ejemplo de Uso
 
-    Instalación y Ejecución
-
     Autor
 
 📝 Descripción
